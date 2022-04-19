@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_10.0"
-export DT_LINK="https://github.com/OrangeFoxRecovery/device_samsung_sdm439.git"
+export FOX_BRANCH="fox_11.0"
+export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_garden.git -b fox_11.0"
 
-export DEVICE="sdm439"
-export OEM="samsung"
+export DEVICE="garden"
+export OEM="xiaomi"
 export TARGET="recoveryimage"
 
 export OUTPUT="OrangeFox*.zip"
