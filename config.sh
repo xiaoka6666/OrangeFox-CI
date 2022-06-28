@@ -2,9 +2,9 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_phoenix.git -b fox_11.0"
+export DT_LINK="https://github.com/OrangeFoxRecovery/device_xiaomi_garden.git"
 
-export DEVICE="phoenix"
+export DEVICE="garden"
 export OEM="xiaomi"
 export TARGET="recoveryimage"
 
